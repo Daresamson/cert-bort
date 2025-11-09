@@ -6,13 +6,6 @@
 
 <img width="1366" height="768" alt="Screenshot (399)" src="https://github.com/user-attachments/assets/818ef33d-c287-42f2-8b16-2d3ac6a6a2be" />
 
-<img width="1366" height="768" alt="Screenshot (400)" src="https://github.com/user-attachments/assets/108eb2e1-dd35-4295-9de2-fa213dccf51a" />
-
-
-
-Here’s your documentation converted into a GitHub-ready Markdown format. You can copy this into a `README.md` file in your repository:
-
----
 
 # Hosting Multiple Subdomains with NGINX and Certbot on Amazon Linux 2023
 
@@ -146,8 +139,3 @@ Open a browser and verify HTTPS access for each subdomain:
 3. Certbot auto-renewal uses systemd timers by default on Amazon Linux 2023.
 4. Validate DNS records for each subdomain pointing to the server IP.
 
----
-
-If you want, I can also **create a ready-to-upload `DOCX` version and a `README.md` file** so you can directly commit to GitHub.
-
-Do you want me to do that?
